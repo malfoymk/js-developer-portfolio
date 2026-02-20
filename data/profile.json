@@ -36,13 +36,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desafio Phishing pela Dio",
+      "url": "https://github.com/malfoymk/Desafio-Phishing",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Desafio ransomware pela Dio",
+      "url": "https://github.com/malfoymk/Desafio-ransomware",
       "github": true
     }
   ],
